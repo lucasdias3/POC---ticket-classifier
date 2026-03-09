@@ -1,0 +1,11 @@
+                    precision    recall  f1-score   support
+
+account_management       1.00      1.00      1.00        25
+           billing       1.00      1.00      1.00        39
+      cancellation       1.00      1.00      1.00        42
+         complaint       0.00      0.00      0.00         1
+   technical_issue       0.97      1.00      0.99        34
+
+          accuracy                           0.99       141
+         macro avg       0.79      0.80      0.80       141
+      weighted avg       0.99      0.99      0.99       141

@@ -1,0 +1,2108 @@
+[
+  {
+    "text": "o portal apresenta alta latencia e falhas constantes por favor",
+    "preprocessed_text": "o portal apresenta alta latencia e falhas constantes por favor",
+    "category": "technical_issue",
+    "priority": "high"
+  },
+  {
+    "text": "fui cobrado a mais referente ao cloud preciso de ajuste",
+    "preprocessed_text": "fui cobrado a mais referente ao cloud preciso de ajuste",
+    "category": "billing",
+    "priority": "medium"
+  },
+  {
+    "text": "quero atualizar os dados cadastrais da minha conta preciso urgente",
+    "preprocessed_text": "quero atualizar os dados cadastrais da minha conta preciso urgente",
+    "category": "account_management",
+    "priority": "low"
+  },
+  {
+    "text": "verifiquei cobranca incorreta na fatura do mobile por favor",
+    "preprocessed_text": "verifiquei cobranca incorreta na fatura do mobile por favor",
+    "category": "billing",
+    "priority": "high"
+  },
+  {
+    "text": "verifiquei cobranca incorreta na fatura do cloud por favor",
+    "preprocessed_text": "verifiquei cobranca incorreta na fatura do cloud por favor",
+    "category": "billing",
+    "priority": "high"
+  },
+  {
+    "text": "por favor verifiquei cobranca incorreta na fatura do internet preciso urgente",
+    "preprocessed_text": "por favor verifiquei cobranca incorreta na fatura do internet preciso urgente",
+    "category": "billing",
+    "priority": "high"
+  },
+  {
+    "text": "solicito estorno de uma cobranca do portal",
+    "preprocessed_text": "solicito estorno de uma cobranca do portal",
+    "category": "billing",
+    "priority": "medium"
+  },
+  {
+    "text": "como configuro permissoes administrativas no internet por favor",
+    "preprocessed_text": "como configuro permissoes administrativas no internet por favor",
+    "category": "account_management",
+    "priority": "low"
+  },
+  {
+    "text": "por favor perda de conexao recorrente no internet",
+    "preprocessed_text": "por favor perda de conexao recorrente no internet",
+    "category": "technical_issue",
+    "priority": "high"
+  },
+  {
+    "text": "perda de conexao recorrente no mobile",
+    "preprocessed_text": "perda de conexao recorrente no mobile",
+    "category": "technical_issue",
+    "priority": "medium"
+  },
+  {
+    "text": "preciso adicionar um novo usuario ao voip por favor",
+    "preprocessed_text": "preciso adicionar um novo usuario ao voip por favor",
+    "category": "account_management",
+    "priority": "low"
+  },
+  {
+    "text": "nao consigo fazer login no cloud aparece erro preciso urgente",
+    "preprocessed_text": "nao consigo fazer login no cloud aparece erro preciso urgente",
+    "category": "technical_issue",
+    "priority": "high"
+  },
+  {
+    "text": "quero cancelar e saber sobre possiveis multas do cloud",
+    "preprocessed_text": "quero cancelar e saber sobre possiveis multas do cloud",
+    "category": "cancellation",
+    "priority": "medium"
+  },
+  {
+    "text": "como altero o titular da conta do mobile",
+    "preprocessed_text": "como altero o titular da conta do mobile",
+    "category": "account_management",
+    "priority": "low"
+  },
+  {
+    "text": "como transfiro servicos do internet para outra conta",
+    "preprocessed_text": "como transfiro servicos do internet para outra conta",
+    "category": "account_management",
+    "priority": "low"
+  },
+  {
+    "text": "por favor como altero o titular da conta do plano",
+    "preprocessed_text": "por favor como altero o titular da conta do plano",
+    "category": "account_management",
+    "priority": "low"
+  },
+  {
+    "text": "quero entender lancamentos na minha fatura do plano por favor",
+    "preprocessed_text": "quero entender lancamentos na minha fatura do plano por favor",
+    "category": "billing",
+    "priority": "high"
+  },
+  {
+    "text": "por favor fui cobrado a mais referente ao portal preciso de ajuste por favor",
+    "preprocessed_text": "por favor fui cobrado a mais referente ao portal preciso de ajuste por favor",
+    "category": "billing",
+    "priority": "high"
+  },
+  {
+    "text": "por favor o portal esta fora do ar desde ontem por favor",
+    "preprocessed_text": "por favor o portal esta fora do ar desde ontem por favor",
+    "category": "technical_issue",
+    "priority": "medium"
+  },
+  {
+    "text": "por favor o internet esta fora do ar desde ontem preciso urgente",
+    "preprocessed_text": "por favor o internet esta fora do ar desde ontem preciso urgente",
+    "category": "technical_issue",
+    "priority": "high"
+  },
+  {
+    "text": "preciso adicionar um novo usuario ao plano por favor",
+    "preprocessed_text": "preciso adicionar um novo usuario ao plano por favor",
+    "category": "account_management",
+    "priority": "low"
+  },
+  {
+    "text": "por favor nao consigo fazer login no portal aparece erro",
+    "preprocessed_text": "por favor nao consigo fazer login no portal aparece erro",
+    "category": "technical_issue",
+    "priority": "medium"
+  },
+  {
+    "text": "solicito estorno de uma cobranca do tv por favor",
+    "preprocessed_text": "solicito estorno de uma cobranca do tv por favor",
+    "category": "billing",
+    "priority": "medium"
+  },
+  {
+    "text": "perda de conexao recorrente no tv preciso urgente",
+    "preprocessed_text": "perda de conexao recorrente no tv preciso urgente",
+    "category": "technical_issue",
+    "priority": "high"
+  },
+  {
+    "text": "por favor perda de conexao recorrente no fatura por favor",
+    "preprocessed_text": "por favor perda de conexao recorrente no fatura por favor",
+    "category": "technical_issue",
+    "priority": "high"
+  },
+  {
+    "text": "quero cancelar meu plano do voip imediatamente preciso urgente",
+    "preprocessed_text": "quero cancelar meu plano do voip imediatamente preciso urgente",
+    "category": "cancellation",
+    "priority": "medium"
+  },
+  {
+    "text": "por favor solicito estorno de uma cobranca do portal",
+    "preprocessed_text": "por favor solicito estorno de uma cobranca do portal",
+    "category": "billing",
+    "priority": "high"
+  },
+  {
+    "text": "como faco para encerrar o servico de tv por favor preciso urgente",
+    "preprocessed_text": "como faco para encerrar o servico de tv por favor preciso urgente",
+    "category": "cancellation",
+    "priority": "medium"
+  },
+  {
+    "text": "por favor nao consigo fazer login no plano aparece erro",
+    "preprocessed_text": "por favor nao consigo fazer login no plano aparece erro",
+    "category": "technical_issue",
+    "priority": "high"
+  },
+  {
+    "text": "ha um debito indevido relacionado ao portal na minha fatura por favor",
+    "preprocessed_text": "ha um debito indevido relacionado ao portal na minha fatura por favor",
+    "category": "billing",
+    "priority": "high"
+  },
+  {
+    "text": "nao estou satisfeito com o atendimento recebido",
+    "preprocessed_text": "nao estou satisfeito com o atendimento recebido",
+    "category": "complaint",
+    "priority": "medium"
+  },
+  {
+    "text": "quero entender lancamentos na minha fatura do portal",
+    "preprocessed_text": "quero entender lancamentos na minha fatura do portal",
+    "category": "billing",
+    "priority": "medium"
+  },
+  {
+    "text": "por favor o plano esta fora do ar desde ontem",
+    "preprocessed_text": "por favor o plano esta fora do ar desde ontem",
+    "category": "technical_issue",
+    "priority": "high"
+  },
+  {
+    "text": "como faco para encerrar o servico de mobile por favor",
+    "preprocessed_text": "como faco para encerrar o servico de mobile por favor",
+    "category": "cancellation",
+    "priority": "high"
+  },
+  {
+    "text": "perda de conexao recorrente no internet por favor preciso urgente",
+    "preprocessed_text": "perda de conexao recorrente no internet por favor preciso urgente",
+    "category": "technical_issue",
+    "priority": "high"
+  },
+  {
+    "text": "ha um debito indevido relacionado ao mobile na minha fatura por favor",
+    "preprocessed_text": "ha um debito indevido relacionado ao mobile na minha fatura por favor",
+    "category": "billing",
+    "priority": "medium"
+  },
+  {
+    "text": "por favor quero entender lancamentos na minha fatura do tv por favor",
+    "preprocessed_text": "por favor quero entender lancamentos na minha fatura do tv por favor",
+    "category": "billing",
+    "priority": "high"
+  },
+  {
+    "text": "preciso confirmar o cancelamento do mobile",
+    "preprocessed_text": "preciso confirmar o cancelamento do mobile",
+    "category": "cancellation",
+    "priority": "high"
+  },
+  {
+    "text": "por favor o plano apresenta alta latencia e falhas constantes",
+    "preprocessed_text": "por favor o plano apresenta alta latencia e falhas constantes",
+    "category": "technical_issue",
+    "priority": "high"
+  },
+  {
+    "text": "como transfiro servicos do fatura para outra conta por favor",
+    "preprocessed_text": "como transfiro servicos do fatura para outra conta por favor",
+    "category": "account_management",
+    "priority": "low"
+  },
+  {
+    "text": "quero cancelar e saber sobre possiveis multas do portal",
+    "preprocessed_text": "quero cancelar e saber sobre possiveis multas do portal",
+    "category": "cancellation",
+    "priority": "high"
+  },
+  {
+    "text": "preciso adicionar um novo usuario ao tv por favor",
+    "preprocessed_text": "preciso adicionar um novo usuario ao tv por favor",
+    "category": "account_management",
+    "priority": "low"
+  },
+  {
+    "text": "por favor quero cancelar e saber sobre possiveis multas do portal",
+    "preprocessed_text": "por favor quero cancelar e saber sobre possiveis multas do portal",
+    "category": "cancellation",
+    "priority": "high"
+  },
+  {
+    "text": "como faco para encerrar o servico de mobile",
+    "preprocessed_text": "como faco para encerrar o servico de mobile",
+    "category": "cancellation",
+    "priority": "high"
+  },
+  {
+    "text": "estou com erro ao acessar o plano preciso urgente",
+    "preprocessed_text": "estou com erro ao acessar o plano preciso urgente",
+    "category": "technical_issue",
+    "priority": "high"
+  },
+  {
+    "text": "quero entender lancamentos na minha fatura do voip por favor preciso urgente",
+    "preprocessed_text": "quero entender lancamentos na minha fatura do voip por favor preciso urgente",
+    "category": "billing",
+    "priority": "high"
+  },
+  {
+    "text": "por favor como transfiro servicos do internet para outra conta",
+    "preprocessed_text": "por favor como transfiro servicos do internet para outra conta",
+    "category": "account_management",
+    "priority": "low"
+  },
+  {
+    "text": "preciso confirmar o cancelamento do tv preciso urgente",
+    "preprocessed_text": "preciso confirmar o cancelamento do tv preciso urgente",
+    "category": "cancellation",
+    "priority": "medium"
+  },
+  {
+    "text": "nao consigo fazer login no cloud aparece erro",
+    "preprocessed_text": "nao consigo fazer login no cloud aparece erro",
+    "category": "technical_issue",
+    "priority": "medium"
+  },
+  {
+    "text": "solicito estorno de uma cobranca do plano",
+    "preprocessed_text": "solicito estorno de uma cobranca do plano",
+    "category": "billing",
+    "priority": "medium"
+  },
+  {
+    "text": "solicito cancelamento do voip por insatisfacao",
+    "preprocessed_text": "solicito cancelamento do voip por insatisfacao",
+    "category": "cancellation",
+    "priority": "high"
+  },
+  {
+    "text": "como transfiro servicos do portal para outra conta preciso urgente",
+    "preprocessed_text": "como transfiro servicos do portal para outra conta preciso urgente",
+    "category": "account_management",
+    "priority": "low"
+  },
+  {
+    "text": "o mobile apresenta alta latencia e falhas constantes",
+    "preprocessed_text": "o mobile apresenta alta latencia e falhas constantes",
+    "category": "technical_issue",
+    "priority": "medium"
+  },
+  {
+    "text": "por favor fui cobrado a mais referente ao voip preciso de ajuste",
+    "preprocessed_text": "por favor fui cobrado a mais referente ao voip preciso de ajuste",
+    "category": "billing",
+    "priority": "high"
+  },
+  {
+    "text": "nao consigo fazer login no voip aparece erro preciso urgente",
+    "preprocessed_text": "nao consigo fazer login no voip aparece erro preciso urgente",
+    "category": "technical_issue",
+    "priority": "high"
+  },
+  {
+    "text": "nao consigo fazer login no plano aparece erro por favor",
+    "preprocessed_text": "nao consigo fazer login no plano aparece erro por favor",
+    "category": "technical_issue",
+    "priority": "high"
+  },
+  {
+    "text": "como faco para encerrar o servico de voip por favor preciso urgente",
+    "preprocessed_text": "como faco para encerrar o servico de voip por favor preciso urgente",
+    "category": "cancellation",
+    "priority": "high"
+  },
+  {
+    "text": "por favor o internet apresenta alta latencia e falhas constantes",
+    "preprocessed_text": "por favor o internet apresenta alta latencia e falhas constantes",
+    "category": "technical_issue",
+    "priority": "medium"
+  },
+  {
+    "text": "por favor fui cobrado a mais referente ao portal preciso de ajuste",
+    "preprocessed_text": "por favor fui cobrado a mais referente ao portal preciso de ajuste",
+    "category": "billing",
+    "priority": "medium"
+  },
+  {
+    "text": "como altero o titular da conta do tv por favor",
+    "preprocessed_text": "como altero o titular da conta do tv por favor",
+    "category": "account_management",
+    "priority": "low"
+  },
+  {
+    "text": "por favor como altero o titular da conta do cloud",
+    "preprocessed_text": "por favor como altero o titular da conta do cloud",
+    "category": "account_management",
+    "priority": "low"
+  },
+  {
+    "text": "por favor fui cobrado a mais referente ao mobile preciso de ajuste",
+    "preprocessed_text": "por favor fui cobrado a mais referente ao mobile preciso de ajuste",
+    "category": "billing",
+    "priority": "high"
+  },
+  {
+    "text": "verifiquei cobranca incorreta na fatura do internet por favor preciso urgente",
+    "preprocessed_text": "verifiquei cobranca incorreta na fatura do internet por favor preciso urgente",
+    "category": "billing",
+    "priority": "high"
+  },
+  {
+    "text": "por favor quero atualizar os dados cadastrais da minha conta preciso urgente",
+    "preprocessed_text": "por favor quero atualizar os dados cadastrais da minha conta preciso urgente",
+    "category": "account_management",
+    "priority": "low"
+  },
+  {
+    "text": "por favor perda de conexao recorrente no voip",
+    "preprocessed_text": "por favor perda de conexao recorrente no voip",
+    "category": "technical_issue",
+    "priority": "high"
+  },
+  {
+    "text": "como configuro permissoes administrativas no cloud por favor",
+    "preprocessed_text": "como configuro permissoes administrativas no cloud por favor",
+    "category": "account_management",
+    "priority": "low"
+  },
+  {
+    "text": "por favor nao consigo fazer login no voip aparece erro por favor",
+    "preprocessed_text": "por favor nao consigo fazer login no voip aparece erro por favor",
+    "category": "technical_issue",
+    "priority": "high"
+  },
+  {
+    "text": "perda de conexao recorrente no internet preciso urgente",
+    "preprocessed_text": "perda de conexao recorrente no internet preciso urgente",
+    "category": "technical_issue",
+    "priority": "high"
+  },
+  {
+    "text": "por favor como faco para encerrar o servico de portal",
+    "preprocessed_text": "por favor como faco para encerrar o servico de portal",
+    "category": "cancellation",
+    "priority": "medium"
+  },
+  {
+    "text": "por favor solicito cancelamento do mobile por insatisfacao por favor preciso urgente",
+    "preprocessed_text": "por favor solicito cancelamento do mobile por insatisfacao por favor preciso urgente",
+    "category": "cancellation",
+    "priority": "high"
+  },
+  {
+    "text": "verifiquei cobranca incorreta na fatura do tv",
+    "preprocessed_text": "verifiquei cobranca incorreta na fatura do tv",
+    "category": "billing",
+    "priority": "medium"
+  },
+  {
+    "text": "como faco para encerrar o servico de fatura preciso urgente",
+    "preprocessed_text": "como faco para encerrar o servico de fatura preciso urgente",
+    "category": "cancellation",
+    "priority": "high"
+  },
+  {
+    "text": "por favor quero cancelar meu plano do plano imediatamente",
+    "preprocessed_text": "por favor quero cancelar meu plano do plano imediatamente",
+    "category": "cancellation",
+    "priority": "high"
+  },
+  {
+    "text": "por favor verifiquei cobranca incorreta na fatura do cloud por favor",
+    "preprocessed_text": "por favor verifiquei cobranca incorreta na fatura do cloud por favor",
+    "category": "billing",
+    "priority": "high"
+  },
+  {
+    "text": "solicito estorno de uma cobranca do portal por favor",
+    "preprocessed_text": "solicito estorno de uma cobranca do portal por favor",
+    "category": "billing",
+    "priority": "high"
+  },
+  {
+    "text": "como altero o titular da conta do fatura preciso urgente",
+    "preprocessed_text": "como altero o titular da conta do fatura preciso urgente",
+    "category": "account_management",
+    "priority": "low"
+  },
+  {
+    "text": "por favor perda de conexao recorrente no voip por favor preciso urgente",
+    "preprocessed_text": "por favor perda de conexao recorrente no voip por favor preciso urgente",
+    "category": "technical_issue",
+    "priority": "high"
+  },
+  {
+    "text": "por favor fui cobrado a mais referente ao cloud preciso de ajuste",
+    "preprocessed_text": "por favor fui cobrado a mais referente ao cloud preciso de ajuste",
+    "category": "billing",
+    "priority": "medium"
+  },
+  {
+    "text": "nao consigo fazer login no mobile aparece erro preciso urgente",
+    "preprocessed_text": "nao consigo fazer login no mobile aparece erro preciso urgente",
+    "category": "technical_issue",
+    "priority": "medium"
+  },
+  {
+    "text": "por favor nao consigo fazer login no fatura aparece erro",
+    "preprocessed_text": "por favor nao consigo fazer login no fatura aparece erro",
+    "category": "technical_issue",
+    "priority": "high"
+  },
+  {
+    "text": "solicito estorno de uma cobranca do tv",
+    "preprocessed_text": "solicito estorno de uma cobranca do tv",
+    "category": "billing",
+    "priority": "medium"
+  },
+  {
+    "text": "quero cancelar meu plano do mobile imediatamente preciso urgente",
+    "preprocessed_text": "quero cancelar meu plano do mobile imediatamente preciso urgente",
+    "category": "cancellation",
+    "priority": "medium"
+  },
+  {
+    "text": "por favor preciso confirmar o cancelamento do portal",
+    "preprocessed_text": "por favor preciso confirmar o cancelamento do portal",
+    "category": "cancellation",
+    "priority": "high"
+  },
+  {
+    "text": "solicito estorno de uma cobranca do voip por favor",
+    "preprocessed_text": "solicito estorno de uma cobranca do voip por favor",
+    "category": "billing",
+    "priority": "high"
+  },
+  {
+    "text": "perda de conexao recorrente no cloud por favor",
+    "preprocessed_text": "perda de conexao recorrente no cloud por favor",
+    "category": "technical_issue",
+    "priority": "medium"
+  },
+  {
+    "text": "solicito estorno de uma cobranca do tv por favor preciso urgente",
+    "preprocessed_text": "solicito estorno de uma cobranca do tv por favor preciso urgente",
+    "category": "billing",
+    "priority": "high"
+  },
+  {
+    "text": "como faco para encerrar o servico de internet",
+    "preprocessed_text": "como faco para encerrar o servico de internet",
+    "category": "cancellation",
+    "priority": "high"
+  },
+  {
+    "text": "como transfiro servicos do tv para outra conta",
+    "preprocessed_text": "como transfiro servicos do tv para outra conta",
+    "category": "account_management",
+    "priority": "low"
+  },
+  {
+    "text": "solicito estorno de uma cobranca do portal preciso urgente",
+    "preprocessed_text": "solicito estorno de uma cobranca do portal preciso urgente",
+    "category": "billing",
+    "priority": "high"
+  },
+  {
+    "text": "por favor estou com erro ao acessar o fatura por favor preciso urgente",
+    "preprocessed_text": "por favor estou com erro ao acessar o fatura por favor preciso urgente",
+    "category": "technical_issue",
+    "priority": "high"
+  },
+  {
+    "text": "solicito cancelamento do plano por insatisfacao",
+    "preprocessed_text": "solicito cancelamento do plano por insatisfacao",
+    "category": "cancellation",
+    "priority": "high"
+  },
+  {
+    "text": "por favor solicito cancelamento do tv por insatisfacao preciso urgente",
+    "preprocessed_text": "por favor solicito cancelamento do tv por insatisfacao preciso urgente",
+    "category": "cancellation",
+    "priority": "medium"
+  },
+  {
+    "text": "por favor fui cobrado a mais referente ao tv preciso de ajuste",
+    "preprocessed_text": "por favor fui cobrado a mais referente ao tv preciso de ajuste",
+    "category": "billing",
+    "priority": "high"
+  },
+  {
+    "text": "como configuro permissoes administrativas no fatura preciso urgente",
+    "preprocessed_text": "como configuro permissoes administrativas no fatura preciso urgente",
+    "category": "account_management",
+    "priority": "low"
+  },
+  {
+    "text": "por favor ha um debito indevido relacionado ao fatura na minha fatura",
+    "preprocessed_text": "por favor ha um debito indevido relacionado ao fatura na minha fatura",
+    "category": "billing",
+    "priority": "high"
+  },
+  {
+    "text": "por favor estou com erro ao acessar o voip",
+    "preprocessed_text": "por favor estou com erro ao acessar o voip",
+    "category": "technical_issue",
+    "priority": "medium"
+  },
+  {
+    "text": "como faco para encerrar o servico de plano",
+    "preprocessed_text": "como faco para encerrar o servico de plano",
+    "category": "cancellation",
+    "priority": "high"
+  },
+  {
+    "text": "por favor quero entender lancamentos na minha fatura do cloud preciso urgente",
+    "preprocessed_text": "por favor quero entender lancamentos na minha fatura do cloud preciso urgente",
+    "category": "billing",
+    "priority": "high"
+  },
+  {
+    "text": "por favor o tv esta fora do ar desde ontem",
+    "preprocessed_text": "por favor o tv esta fora do ar desde ontem",
+    "category": "technical_issue",
+    "priority": "medium"
+  },
+  {
+    "text": "por favor preciso confirmar o cancelamento do tv por favor",
+    "preprocessed_text": "por favor preciso confirmar o cancelamento do tv por favor",
+    "category": "cancellation",
+    "priority": "medium"
+  },
+  {
+    "text": "por favor preciso confirmar o cancelamento do mobile",
+    "preprocessed_text": "por favor preciso confirmar o cancelamento do mobile",
+    "category": "cancellation",
+    "priority": "medium"
+  },
+  {
+    "text": "por favor fui cobrado a mais referente ao fatura preciso de ajuste preciso urgente",
+    "preprocessed_text": "por favor fui cobrado a mais referente ao fatura preciso de ajuste preciso urgente",
+    "category": "billing",
+    "priority": "medium"
+  },
+  {
+    "text": "por favor quero entender lancamentos na minha fatura do mobile por favor",
+    "preprocessed_text": "por favor quero entender lancamentos na minha fatura do mobile por favor",
+    "category": "billing",
+    "priority": "high"
+  },
+  {
+    "text": "por favor o voip apresenta alta latencia e falhas constantes por favor preciso urgente",
+    "preprocessed_text": "por favor o voip apresenta alta latencia e falhas constantes por favor preciso urgente",
+    "category": "technical_issue",
+    "priority": "high"
+  },
+  {
+    "text": "por favor ha um debito indevido relacionado ao fatura na minha fatura por favor",
+    "preprocessed_text": "por favor ha um debito indevido relacionado ao fatura na minha fatura por favor",
+    "category": "billing",
+    "priority": "high"
+  },
+  {
+    "text": "perda de conexao recorrente no voip por favor",
+    "preprocessed_text": "perda de conexao recorrente no voip por favor",
+    "category": "technical_issue",
+    "priority": "high"
+  },
+  {
+    "text": "o voip esta fora do ar desde ontem preciso urgente",
+    "preprocessed_text": "o voip esta fora do ar desde ontem preciso urgente",
+    "category": "technical_issue",
+    "priority": "medium"
+  },
+  {
+    "text": "por favor ha um debito indevido relacionado ao portal na minha fatura por favor",
+    "preprocessed_text": "por favor ha um debito indevido relacionado ao portal na minha fatura por favor",
+    "category": "billing",
+    "priority": "high"
+  },
+  {
+    "text": "quero cancelar meu plano do internet imediatamente preciso urgente",
+    "preprocessed_text": "quero cancelar meu plano do internet imediatamente preciso urgente",
+    "category": "cancellation",
+    "priority": "medium"
+  },
+  {
+    "text": "quero cancelar meu plano do cloud imediatamente por favor",
+    "preprocessed_text": "quero cancelar meu plano do cloud imediatamente por favor",
+    "category": "cancellation",
+    "priority": "medium"
+  },
+  {
+    "text": "perda de conexao recorrente no portal por favor",
+    "preprocessed_text": "perda de conexao recorrente no portal por favor",
+    "category": "technical_issue",
+    "priority": "high"
+  },
+  {
+    "text": "perda de conexao recorrente no portal por favor preciso urgente",
+    "preprocessed_text": "perda de conexao recorrente no portal por favor preciso urgente",
+    "category": "technical_issue",
+    "priority": "high"
+  },
+  {
+    "text": "fui cobrado a mais referente ao tv preciso de ajuste",
+    "preprocessed_text": "fui cobrado a mais referente ao tv preciso de ajuste",
+    "category": "billing",
+    "priority": "medium"
+  },
+  {
+    "text": "nao consigo fazer login no voip aparece erro",
+    "preprocessed_text": "nao consigo fazer login no voip aparece erro",
+    "category": "technical_issue",
+    "priority": "medium"
+  },
+  {
+    "text": "perda de conexao recorrente no tv",
+    "preprocessed_text": "perda de conexao recorrente no tv",
+    "category": "technical_issue",
+    "priority": "medium"
+  },
+  {
+    "text": "por favor preciso adicionar um novo usuario ao plano preciso urgente",
+    "preprocessed_text": "por favor preciso adicionar um novo usuario ao plano preciso urgente",
+    "category": "account_management",
+    "priority": "low"
+  },
+  {
+    "text": "quero atualizar os dados cadastrais da minha conta por favor",
+    "preprocessed_text": "quero atualizar os dados cadastrais da minha conta por favor",
+    "category": "account_management",
+    "priority": "low"
+  },
+  {
+    "text": "ha um debito indevido relacionado ao tv na minha fatura",
+    "preprocessed_text": "ha um debito indevido relacionado ao tv na minha fatura",
+    "category": "billing",
+    "priority": "medium"
+  },
+  {
+    "text": "solicito estorno de uma cobranca do plano por favor",
+    "preprocessed_text": "solicito estorno de uma cobranca do plano por favor",
+    "category": "billing",
+    "priority": "medium"
+  },
+  {
+    "text": "o cloud esta fora do ar desde ontem preciso urgente",
+    "preprocessed_text": "o cloud esta fora do ar desde ontem preciso urgente",
+    "category": "technical_issue",
+    "priority": "high"
+  },
+  {
+    "text": "por favor nao consigo fazer login no voip aparece erro",
+    "preprocessed_text": "por favor nao consigo fazer login no voip aparece erro",
+    "category": "technical_issue",
+    "priority": "high"
+  },
+  {
+    "text": "por favor como altero o titular da conta do voip",
+    "preprocessed_text": "por favor como altero o titular da conta do voip",
+    "category": "account_management",
+    "priority": "low"
+  },
+  {
+    "text": "por favor como faco para encerrar o servico de voip por favor",
+    "preprocessed_text": "por favor como faco para encerrar o servico de voip por favor",
+    "category": "cancellation",
+    "priority": "high"
+  },
+  {
+    "text": "quero cancelar meu plano do plano imediatamente por favor",
+    "preprocessed_text": "quero cancelar meu plano do plano imediatamente por favor",
+    "category": "cancellation",
+    "priority": "high"
+  },
+  {
+    "text": "preciso confirmar o cancelamento do tv por favor",
+    "preprocessed_text": "preciso confirmar o cancelamento do tv por favor",
+    "category": "cancellation",
+    "priority": "medium"
+  },
+  {
+    "text": "nao consigo fazer login no fatura aparece erro preciso urgente",
+    "preprocessed_text": "nao consigo fazer login no fatura aparece erro preciso urgente",
+    "category": "technical_issue",
+    "priority": "medium"
+  },
+  {
+    "text": "fui cobrado a mais referente ao voip preciso de ajuste por favor",
+    "preprocessed_text": "fui cobrado a mais referente ao voip preciso de ajuste por favor",
+    "category": "billing",
+    "priority": "high"
+  },
+  {
+    "text": "nao consigo fazer login no internet aparece erro por favor",
+    "preprocessed_text": "nao consigo fazer login no internet aparece erro por favor",
+    "category": "technical_issue",
+    "priority": "medium"
+  },
+  {
+    "text": "por favor como altero o titular da conta do mobile",
+    "preprocessed_text": "por favor como altero o titular da conta do mobile",
+    "category": "account_management",
+    "priority": "low"
+  },
+  {
+    "text": "solicito estorno de uma cobranca do internet",
+    "preprocessed_text": "solicito estorno de uma cobranca do internet",
+    "category": "billing",
+    "priority": "medium"
+  },
+  {
+    "text": "por favor estou com erro ao acessar o plano",
+    "preprocessed_text": "por favor estou com erro ao acessar o plano",
+    "category": "technical_issue",
+    "priority": "high"
+  },
+  {
+    "text": "nao consigo fazer login no cloud aparece erro por favor",
+    "preprocessed_text": "nao consigo fazer login no cloud aparece erro por favor",
+    "category": "technical_issue",
+    "priority": "high"
+  },
+  {
+    "text": "por favor o mobile apresenta alta latencia e falhas constantes",
+    "preprocessed_text": "por favor o mobile apresenta alta latencia e falhas constantes",
+    "category": "technical_issue",
+    "priority": "high"
+  },
+  {
+    "text": "por favor perda de conexao recorrente no cloud",
+    "preprocessed_text": "por favor perda de conexao recorrente no cloud",
+    "category": "technical_issue",
+    "priority": "high"
+  },
+  {
+    "text": "perda de conexao recorrente no plano preciso urgente",
+    "preprocessed_text": "perda de conexao recorrente no plano preciso urgente",
+    "category": "technical_issue",
+    "priority": "high"
+  },
+  {
+    "text": "quero cancelar e saber sobre possiveis multas do cloud preciso urgente",
+    "preprocessed_text": "quero cancelar e saber sobre possiveis multas do cloud preciso urgente",
+    "category": "cancellation",
+    "priority": "medium"
+  },
+  {
+    "text": "por favor ha um debito indevido relacionado ao tv na minha fatura",
+    "preprocessed_text": "por favor ha um debito indevido relacionado ao tv na minha fatura",
+    "category": "billing",
+    "priority": "medium"
+  },
+  {
+    "text": "por favor o plano apresenta alta latencia e falhas constantes por favor",
+    "preprocessed_text": "por favor o plano apresenta alta latencia e falhas constantes por favor",
+    "category": "technical_issue",
+    "priority": "high"
+  },
+  {
+    "text": "como altero os usuarios da minha conta",
+    "preprocessed_text": "como altero os usuarios da minha conta",
+    "category": "account_management",
+    "priority": "low"
+  },
+  {
+    "text": "estou com erro ao acessar o plano por favor",
+    "preprocessed_text": "estou com erro ao acessar o plano por favor",
+    "category": "technical_issue",
+    "priority": "medium"
+  },
+  {
+    "text": "estou com erro ao acessar o internet preciso urgente",
+    "preprocessed_text": "estou com erro ao acessar o internet preciso urgente",
+    "category": "technical_issue",
+    "priority": "medium"
+  },
+  {
+    "text": "fui cobrado a mais referente ao voip preciso de ajuste preciso urgente",
+    "preprocessed_text": "fui cobrado a mais referente ao voip preciso de ajuste preciso urgente",
+    "category": "billing",
+    "priority": "medium"
+  },
+  {
+    "text": "nao consigo fazer login no internet aparece erro",
+    "preprocessed_text": "nao consigo fazer login no internet aparece erro",
+    "category": "technical_issue",
+    "priority": "medium"
+  },
+  {
+    "text": "por favor ha um debito indevido relacionado ao internet na minha fatura",
+    "preprocessed_text": "por favor ha um debito indevido relacionado ao internet na minha fatura",
+    "category": "billing",
+    "priority": "medium"
+  },
+  {
+    "text": "por favor quero entender lancamentos na minha fatura do cloud",
+    "preprocessed_text": "por favor quero entender lancamentos na minha fatura do cloud",
+    "category": "billing",
+    "priority": "high"
+  },
+  {
+    "text": "por favor nao consigo fazer login no cloud aparece erro",
+    "preprocessed_text": "por favor nao consigo fazer login no cloud aparece erro",
+    "category": "technical_issue",
+    "priority": "high"
+  },
+  {
+    "text": "estou com erro ao acessar o fatura por favor preciso urgente",
+    "preprocessed_text": "estou com erro ao acessar o fatura por favor preciso urgente",
+    "category": "technical_issue",
+    "priority": "high"
+  },
+  {
+    "text": "por favor o portal apresenta alta latencia e falhas constantes",
+    "preprocessed_text": "por favor o portal apresenta alta latencia e falhas constantes",
+    "category": "technical_issue",
+    "priority": "medium"
+  },
+  {
+    "text": "por favor solicito cancelamento do voip por insatisfacao por favor",
+    "preprocessed_text": "por favor solicito cancelamento do voip por insatisfacao por favor",
+    "category": "cancellation",
+    "priority": "high"
+  },
+  {
+    "text": "por favor quero entender lancamentos na minha fatura do internet",
+    "preprocessed_text": "por favor quero entender lancamentos na minha fatura do internet",
+    "category": "billing",
+    "priority": "medium"
+  },
+  {
+    "text": "estou com erro ao acessar o internet por favor",
+    "preprocessed_text": "estou com erro ao acessar o internet por favor",
+    "category": "technical_issue",
+    "priority": "medium"
+  },
+  {
+    "text": "meu sistema esta fora do ar desde ontem e nao consigo emitir notas",
+    "preprocessed_text": "meu sistema esta fora do ar desde ontem e nao consigo emitir notas",
+    "category": "technical_issue",
+    "priority": "high"
+  },
+  {
+    "text": "solicito cancelamento do internet por insatisfacao",
+    "preprocessed_text": "solicito cancelamento do internet por insatisfacao",
+    "category": "cancellation",
+    "priority": "high"
+  },
+  {
+    "text": "quero cancelar meu plano do tv imediatamente por favor",
+    "preprocessed_text": "quero cancelar meu plano do tv imediatamente por favor",
+    "category": "cancellation",
+    "priority": "medium"
+  },
+  {
+    "text": "como altero o titular da conta do tv",
+    "preprocessed_text": "como altero o titular da conta do tv",
+    "category": "account_management",
+    "priority": "low"
+  },
+  {
+    "text": "estou com erro ao acessar o mobile",
+    "preprocessed_text": "estou com erro ao acessar o mobile",
+    "category": "technical_issue",
+    "priority": "medium"
+  },
+  {
+    "text": "por favor quero cancelar e saber sobre possiveis multas do fatura preciso urgente",
+    "preprocessed_text": "por favor quero cancelar e saber sobre possiveis multas do fatura preciso urgente",
+    "category": "cancellation",
+    "priority": "high"
+  },
+  {
+    "text": "quero cancelar e saber sobre possiveis multas do voip preciso urgente",
+    "preprocessed_text": "quero cancelar e saber sobre possiveis multas do voip preciso urgente",
+    "category": "cancellation",
+    "priority": "high"
+  },
+  {
+    "text": "ha um debito indevido relacionado ao internet na minha fatura por favor",
+    "preprocessed_text": "ha um debito indevido relacionado ao internet na minha fatura por favor",
+    "category": "billing",
+    "priority": "high"
+  },
+  {
+    "text": "como altero o titular da conta do fatura",
+    "preprocessed_text": "como altero o titular da conta do fatura",
+    "category": "account_management",
+    "priority": "low"
+  },
+  {
+    "text": "fui cobrado a mais referente ao tv preciso de ajuste preciso urgente",
+    "preprocessed_text": "fui cobrado a mais referente ao tv preciso de ajuste preciso urgente",
+    "category": "billing",
+    "priority": "high"
+  },
+  {
+    "text": "perda de conexao recorrente no voip por favor preciso urgente",
+    "preprocessed_text": "perda de conexao recorrente no voip por favor preciso urgente",
+    "category": "technical_issue",
+    "priority": "high"
+  },
+  {
+    "text": "como transfiro servicos do portal para outra conta por favor preciso urgente",
+    "preprocessed_text": "como transfiro servicos do portal para outra conta por favor preciso urgente",
+    "category": "account_management",
+    "priority": "low"
+  },
+  {
+    "text": "por favor quero cancelar e saber sobre possiveis multas do portal por favor",
+    "preprocessed_text": "por favor quero cancelar e saber sobre possiveis multas do portal por favor",
+    "category": "cancellation",
+    "priority": "medium"
+  },
+  {
+    "text": "preciso adicionar um novo usuario ao voip",
+    "preprocessed_text": "preciso adicionar um novo usuario ao voip",
+    "category": "account_management",
+    "priority": "low"
+  },
+  {
+    "text": "por favor verifiquei cobranca incorreta na fatura do internet",
+    "preprocessed_text": "por favor verifiquei cobranca incorreta na fatura do internet",
+    "category": "billing",
+    "priority": "medium"
+  },
+  {
+    "text": "por favor ha um debito indevido relacionado ao plano na minha fatura",
+    "preprocessed_text": "por favor ha um debito indevido relacionado ao plano na minha fatura",
+    "category": "billing",
+    "priority": "medium"
+  },
+  {
+    "text": "solicito cancelamento do fatura por insatisfacao preciso urgente",
+    "preprocessed_text": "solicito cancelamento do fatura por insatisfacao preciso urgente",
+    "category": "cancellation",
+    "priority": "medium"
+  },
+  {
+    "text": "fui cobrado a mais referente ao voip preciso de ajuste",
+    "preprocessed_text": "fui cobrado a mais referente ao voip preciso de ajuste",
+    "category": "billing",
+    "priority": "medium"
+  },
+  {
+    "text": "perda de conexao recorrente no portal preciso urgente",
+    "preprocessed_text": "perda de conexao recorrente no portal preciso urgente",
+    "category": "technical_issue",
+    "priority": "medium"
+  },
+  {
+    "text": "como faco para encerrar o servico de fatura por favor",
+    "preprocessed_text": "como faco para encerrar o servico de fatura por favor",
+    "category": "cancellation",
+    "priority": "medium"
+  },
+  {
+    "text": "o cloud apresenta alta latencia e falhas constantes preciso urgente",
+    "preprocessed_text": "o cloud apresenta alta latencia e falhas constantes preciso urgente",
+    "category": "technical_issue",
+    "priority": "high"
+  },
+  {
+    "text": "ha um debito indevido relacionado ao voip na minha fatura por favor",
+    "preprocessed_text": "ha um debito indevido relacionado ao voip na minha fatura por favor",
+    "category": "billing",
+    "priority": "medium"
+  },
+  {
+    "text": "solicito cancelamento do internet por insatisfacao preciso urgente",
+    "preprocessed_text": "solicito cancelamento do internet por insatisfacao preciso urgente",
+    "category": "cancellation",
+    "priority": "high"
+  },
+  {
+    "text": "por favor estou com erro ao acessar o mobile",
+    "preprocessed_text": "por favor estou com erro ao acessar o mobile",
+    "category": "technical_issue",
+    "priority": "high"
+  },
+  {
+    "text": "o mobile esta fora do ar desde ontem por favor",
+    "preprocessed_text": "o mobile esta fora do ar desde ontem por favor",
+    "category": "technical_issue",
+    "priority": "medium"
+  },
+  {
+    "text": "por favor solicito cancelamento do internet por insatisfacao",
+    "preprocessed_text": "por favor solicito cancelamento do internet por insatisfacao",
+    "category": "cancellation",
+    "priority": "medium"
+  },
+  {
+    "text": "por favor preciso confirmar o cancelamento do fatura por favor",
+    "preprocessed_text": "por favor preciso confirmar o cancelamento do fatura por favor",
+    "category": "cancellation",
+    "priority": "medium"
+  },
+  {
+    "text": "quero entender lancamentos na minha fatura do fatura por favor",
+    "preprocessed_text": "quero entender lancamentos na minha fatura do fatura por favor",
+    "category": "billing",
+    "priority": "medium"
+  },
+  {
+    "text": "fui cobrado a mais referente ao portal preciso de ajuste por favor preciso urgente",
+    "preprocessed_text": "fui cobrado a mais referente ao portal preciso de ajuste por favor preciso urgente",
+    "category": "billing",
+    "priority": "high"
+  },
+  {
+    "text": "por favor quero entender lancamentos na minha fatura do voip",
+    "preprocessed_text": "por favor quero entender lancamentos na minha fatura do voip",
+    "category": "billing",
+    "priority": "high"
+  },
+  {
+    "text": "estou com erro ao acessar o portal",
+    "preprocessed_text": "estou com erro ao acessar o portal",
+    "category": "technical_issue",
+    "priority": "medium"
+  },
+  {
+    "text": "quero cancelar e saber sobre possiveis multas do plano",
+    "preprocessed_text": "quero cancelar e saber sobre possiveis multas do plano",
+    "category": "cancellation",
+    "priority": "high"
+  },
+  {
+    "text": "preciso adicionar um novo usuario ao internet preciso urgente",
+    "preprocessed_text": "preciso adicionar um novo usuario ao internet preciso urgente",
+    "category": "account_management",
+    "priority": "low"
+  },
+  {
+    "text": "fui cobrado a mais referente ao fatura preciso de ajuste preciso urgente",
+    "preprocessed_text": "fui cobrado a mais referente ao fatura preciso de ajuste preciso urgente",
+    "category": "billing",
+    "priority": "high"
+  },
+  {
+    "text": "o plano esta fora do ar desde ontem por favor preciso urgente",
+    "preprocessed_text": "o plano esta fora do ar desde ontem por favor preciso urgente",
+    "category": "technical_issue",
+    "priority": "high"
+  },
+  {
+    "text": "quero mudar meu plano para o premium",
+    "preprocessed_text": "quero mudar meu plano para o premium",
+    "category": "account_management",
+    "priority": "low"
+  },
+  {
+    "text": "como configuro permissoes administrativas no tv por favor",
+    "preprocessed_text": "como configuro permissoes administrativas no tv por favor",
+    "category": "account_management",
+    "priority": "low"
+  },
+  {
+    "text": "preciso adicionar um novo usuario ao plano",
+    "preprocessed_text": "preciso adicionar um novo usuario ao plano",
+    "category": "account_management",
+    "priority": "low"
+  },
+  {
+    "text": "por favor nao consigo fazer login no internet aparece erro por favor",
+    "preprocessed_text": "por favor nao consigo fazer login no internet aparece erro por favor",
+    "category": "technical_issue",
+    "priority": "high"
+  },
+  {
+    "text": "preciso adicionar um novo usuario ao cloud",
+    "preprocessed_text": "preciso adicionar um novo usuario ao cloud",
+    "category": "account_management",
+    "priority": "low"
+  },
+  {
+    "text": "por favor solicito cancelamento do portal por insatisfacao por favor",
+    "preprocessed_text": "por favor solicito cancelamento do portal por insatisfacao por favor",
+    "category": "cancellation",
+    "priority": "medium"
+  },
+  {
+    "text": "como transfiro servicos do cloud para outra conta",
+    "preprocessed_text": "como transfiro servicos do cloud para outra conta",
+    "category": "account_management",
+    "priority": "low"
+  },
+  {
+    "text": "por favor quero cancelar e saber sobre possiveis multas do plano",
+    "preprocessed_text": "por favor quero cancelar e saber sobre possiveis multas do plano",
+    "category": "cancellation",
+    "priority": "medium"
+  },
+  {
+    "text": "o tv esta fora do ar desde ontem",
+    "preprocessed_text": "o tv esta fora do ar desde ontem",
+    "category": "technical_issue",
+    "priority": "medium"
+  },
+  {
+    "text": "por favor como transfiro servicos do voip para outra conta",
+    "preprocessed_text": "por favor como transfiro servicos do voip para outra conta",
+    "category": "account_management",
+    "priority": "low"
+  },
+  {
+    "text": "por favor quero entender lancamentos na minha fatura do voip por favor",
+    "preprocessed_text": "por favor quero entender lancamentos na minha fatura do voip por favor",
+    "category": "billing",
+    "priority": "high"
+  },
+  {
+    "text": "quero entender lancamentos na minha fatura do cloud",
+    "preprocessed_text": "quero entender lancamentos na minha fatura do cloud",
+    "category": "billing",
+    "priority": "medium"
+  },
+  {
+    "text": "estou com erro ao acessar o cloud",
+    "preprocessed_text": "estou com erro ao acessar o cloud",
+    "category": "technical_issue",
+    "priority": "medium"
+  },
+  {
+    "text": "quero cancelar e saber sobre possiveis multas do tv",
+    "preprocessed_text": "quero cancelar e saber sobre possiveis multas do tv",
+    "category": "cancellation",
+    "priority": "high"
+  },
+  {
+    "text": "fui cobrado a mais referente ao mobile preciso de ajuste preciso urgente",
+    "preprocessed_text": "fui cobrado a mais referente ao mobile preciso de ajuste preciso urgente",
+    "category": "billing",
+    "priority": "high"
+  },
+  {
+    "text": "ha um debito indevido relacionado ao voip na minha fatura",
+    "preprocessed_text": "ha um debito indevido relacionado ao voip na minha fatura",
+    "category": "billing",
+    "priority": "medium"
+  },
+  {
+    "text": "por favor nao consigo fazer login no internet aparece erro",
+    "preprocessed_text": "por favor nao consigo fazer login no internet aparece erro",
+    "category": "technical_issue",
+    "priority": "high"
+  },
+  {
+    "text": "o plano apresenta alta latencia e falhas constantes preciso urgente",
+    "preprocessed_text": "o plano apresenta alta latencia e falhas constantes preciso urgente",
+    "category": "technical_issue",
+    "priority": "high"
+  },
+  {
+    "text": "estou com erro ao acessar o fatura por favor",
+    "preprocessed_text": "estou com erro ao acessar o fatura por favor",
+    "category": "technical_issue",
+    "priority": "medium"
+  },
+  {
+    "text": "preciso confirmar o cancelamento do cloud preciso urgente",
+    "preprocessed_text": "preciso confirmar o cancelamento do cloud preciso urgente",
+    "category": "cancellation",
+    "priority": "medium"
+  },
+  {
+    "text": "por favor como faco para encerrar o servico de portal por favor preciso urgente",
+    "preprocessed_text": "por favor como faco para encerrar o servico de portal por favor preciso urgente",
+    "category": "cancellation",
+    "priority": "medium"
+  },
+  {
+    "text": "solicito estorno de uma cobranca do fatura preciso urgente",
+    "preprocessed_text": "solicito estorno de uma cobranca do fatura preciso urgente",
+    "category": "billing",
+    "priority": "high"
+  },
+  {
+    "text": "por favor quero entender lancamentos na minha fatura do voip preciso urgente",
+    "preprocessed_text": "por favor quero entender lancamentos na minha fatura do voip preciso urgente",
+    "category": "billing",
+    "priority": "high"
+  },
+  {
+    "text": "ha um debito indevido relacionado ao internet na minha fatura preciso urgente",
+    "preprocessed_text": "ha um debito indevido relacionado ao internet na minha fatura preciso urgente",
+    "category": "billing",
+    "priority": "high"
+  },
+  {
+    "text": "verifiquei cobranca incorreta na fatura do cloud",
+    "preprocessed_text": "verifiquei cobranca incorreta na fatura do cloud",
+    "category": "billing",
+    "priority": "medium"
+  },
+  {
+    "text": "quero cancelar meu plano do plano imediatamente preciso urgente",
+    "preprocessed_text": "quero cancelar meu plano do plano imediatamente preciso urgente",
+    "category": "cancellation",
+    "priority": "high"
+  },
+  {
+    "text": "por favor solicito cancelamento do portal por insatisfacao",
+    "preprocessed_text": "por favor solicito cancelamento do portal por insatisfacao",
+    "category": "cancellation",
+    "priority": "medium"
+  },
+  {
+    "text": "solicito cancelamento do cloud por insatisfacao por favor",
+    "preprocessed_text": "solicito cancelamento do cloud por insatisfacao por favor",
+    "category": "cancellation",
+    "priority": "medium"
+  },
+  {
+    "text": "por favor ha um debito indevido relacionado ao voip na minha fatura",
+    "preprocessed_text": "por favor ha um debito indevido relacionado ao voip na minha fatura",
+    "category": "billing",
+    "priority": "high"
+  },
+  {
+    "text": "como transfiro servicos do fatura para outra conta preciso urgente",
+    "preprocessed_text": "como transfiro servicos do fatura para outra conta preciso urgente",
+    "category": "account_management",
+    "priority": "low"
+  },
+  {
+    "text": "por favor estou com erro ao acessar o fatura",
+    "preprocessed_text": "por favor estou com erro ao acessar o fatura",
+    "category": "technical_issue",
+    "priority": "medium"
+  },
+  {
+    "text": "como configuro permissoes administrativas no tv",
+    "preprocessed_text": "como configuro permissoes administrativas no tv",
+    "category": "account_management",
+    "priority": "low"
+  },
+  {
+    "text": "como faco para encerrar o servico de portal",
+    "preprocessed_text": "como faco para encerrar o servico de portal",
+    "category": "cancellation",
+    "priority": "high"
+  },
+  {
+    "text": "o portal esta fora do ar desde ontem por favor",
+    "preprocessed_text": "o portal esta fora do ar desde ontem por favor",
+    "category": "technical_issue",
+    "priority": "high"
+  },
+  {
+    "text": "por favor solicito estorno de uma cobranca do mobile",
+    "preprocessed_text": "por favor solicito estorno de uma cobranca do mobile",
+    "category": "billing",
+    "priority": "medium"
+  },
+  {
+    "text": "perda de conexao recorrente no plano",
+    "preprocessed_text": "perda de conexao recorrente no plano",
+    "category": "technical_issue",
+    "priority": "medium"
+  },
+  {
+    "text": "quero entender lancamentos na minha fatura do portal preciso urgente",
+    "preprocessed_text": "quero entender lancamentos na minha fatura do portal preciso urgente",
+    "category": "billing",
+    "priority": "high"
+  },
+  {
+    "text": "por favor quero entender lancamentos na minha fatura do tv preciso urgente",
+    "preprocessed_text": "por favor quero entender lancamentos na minha fatura do tv preciso urgente",
+    "category": "billing",
+    "priority": "high"
+  },
+  {
+    "text": "por favor preciso confirmar o cancelamento do mobile por favor",
+    "preprocessed_text": "por favor preciso confirmar o cancelamento do mobile por favor",
+    "category": "cancellation",
+    "priority": "medium"
+  },
+  {
+    "text": "estou com erro ao acessar o tv preciso urgente",
+    "preprocessed_text": "estou com erro ao acessar o tv preciso urgente",
+    "category": "technical_issue",
+    "priority": "high"
+  },
+  {
+    "text": "por favor estou com erro ao acessar o cloud",
+    "preprocessed_text": "por favor estou com erro ao acessar o cloud",
+    "category": "technical_issue",
+    "priority": "high"
+  },
+  {
+    "text": "por favor estou com erro ao acessar o internet por favor",
+    "preprocessed_text": "por favor estou com erro ao acessar o internet por favor",
+    "category": "technical_issue",
+    "priority": "high"
+  },
+  {
+    "text": "quero cancelar e saber sobre possiveis multas do plano por favor",
+    "preprocessed_text": "quero cancelar e saber sobre possiveis multas do plano por favor",
+    "category": "cancellation",
+    "priority": "high"
+  },
+  {
+    "text": "por favor como faco para encerrar o servico de cloud por favor",
+    "preprocessed_text": "por favor como faco para encerrar o servico de cloud por favor",
+    "category": "cancellation",
+    "priority": "high"
+  },
+  {
+    "text": "como altero o titular da conta do portal",
+    "preprocessed_text": "como altero o titular da conta do portal",
+    "category": "account_management",
+    "priority": "low"
+  },
+  {
+    "text": "como configuro permissoes administrativas no cloud",
+    "preprocessed_text": "como configuro permissoes administrativas no cloud",
+    "category": "account_management",
+    "priority": "low"
+  },
+  {
+    "text": "quero entender lancamentos na minha fatura do internet por favor",
+    "preprocessed_text": "quero entender lancamentos na minha fatura do internet por favor",
+    "category": "billing",
+    "priority": "medium"
+  },
+  {
+    "text": "preciso confirmar o cancelamento do plano",
+    "preprocessed_text": "preciso confirmar o cancelamento do plano",
+    "category": "cancellation",
+    "priority": "high"
+  },
+  {
+    "text": "por favor solicito estorno de uma cobranca do plano",
+    "preprocessed_text": "por favor solicito estorno de uma cobranca do plano",
+    "category": "billing",
+    "priority": "medium"
+  },
+  {
+    "text": "solicito cancelamento do internet por insatisfacao por favor",
+    "preprocessed_text": "solicito cancelamento do internet por insatisfacao por favor",
+    "category": "cancellation",
+    "priority": "medium"
+  },
+  {
+    "text": "por favor quero cancelar meu plano do cloud imediatamente",
+    "preprocessed_text": "por favor quero cancelar meu plano do cloud imediatamente",
+    "category": "cancellation",
+    "priority": "medium"
+  },
+  {
+    "text": "como transfiro servicos do voip para outra conta preciso urgente",
+    "preprocessed_text": "como transfiro servicos do voip para outra conta preciso urgente",
+    "category": "account_management",
+    "priority": "low"
+  },
+  {
+    "text": "o portal esta fora do ar desde ontem preciso urgente",
+    "preprocessed_text": "o portal esta fora do ar desde ontem preciso urgente",
+    "category": "technical_issue",
+    "priority": "high"
+  },
+  {
+    "text": "por favor como transfiro servicos do internet para outra conta preciso urgente",
+    "preprocessed_text": "por favor como transfiro servicos do internet para outra conta preciso urgente",
+    "category": "account_management",
+    "priority": "low"
+  },
+  {
+    "text": "como faco para encerrar o servico de internet por favor",
+    "preprocessed_text": "como faco para encerrar o servico de internet por favor",
+    "category": "cancellation",
+    "priority": "medium"
+  },
+  {
+    "text": "por favor perda de conexao recorrente no portal por favor",
+    "preprocessed_text": "por favor perda de conexao recorrente no portal por favor",
+    "category": "technical_issue",
+    "priority": "high"
+  },
+  {
+    "text": "ha um debito indevido relacionado ao cloud na minha fatura por favor",
+    "preprocessed_text": "ha um debito indevido relacionado ao cloud na minha fatura por favor",
+    "category": "billing",
+    "priority": "high"
+  },
+  {
+    "text": "o mobile esta fora do ar desde ontem preciso urgente",
+    "preprocessed_text": "o mobile esta fora do ar desde ontem preciso urgente",
+    "category": "technical_issue",
+    "priority": "high"
+  },
+  {
+    "text": "por favor nao consigo fazer login no plano aparece erro preciso urgente",
+    "preprocessed_text": "por favor nao consigo fazer login no plano aparece erro preciso urgente",
+    "category": "technical_issue",
+    "priority": "medium"
+  },
+  {
+    "text": "por favor o fatura esta fora do ar desde ontem",
+    "preprocessed_text": "por favor o fatura esta fora do ar desde ontem",
+    "category": "technical_issue",
+    "priority": "medium"
+  },
+  {
+    "text": "por favor como faco para encerrar o servico de internet",
+    "preprocessed_text": "por favor como faco para encerrar o servico de internet",
+    "category": "cancellation",
+    "priority": "medium"
+  },
+  {
+    "text": "fui cobrado a mais referente ao mobile preciso de ajuste por favor",
+    "preprocessed_text": "fui cobrado a mais referente ao mobile preciso de ajuste por favor",
+    "category": "billing",
+    "priority": "high"
+  },
+  {
+    "text": "perda de conexao recorrente no voip",
+    "preprocessed_text": "perda de conexao recorrente no voip",
+    "category": "technical_issue",
+    "priority": "medium"
+  },
+  {
+    "text": "quero cancelar e saber sobre possiveis multas do mobile preciso urgente",
+    "preprocessed_text": "quero cancelar e saber sobre possiveis multas do mobile preciso urgente",
+    "category": "cancellation",
+    "priority": "medium"
+  },
+  {
+    "text": "como transfiro servicos do plano para outra conta",
+    "preprocessed_text": "como transfiro servicos do plano para outra conta",
+    "category": "account_management",
+    "priority": "low"
+  },
+  {
+    "text": "por favor ha um debito indevido relacionado ao portal na minha fatura",
+    "preprocessed_text": "por favor ha um debito indevido relacionado ao portal na minha fatura",
+    "category": "billing",
+    "priority": "high"
+  },
+  {
+    "text": "por favor como faco para encerrar o servico de mobile por favor",
+    "preprocessed_text": "por favor como faco para encerrar o servico de mobile por favor",
+    "category": "cancellation",
+    "priority": "medium"
+  },
+  {
+    "text": "perda de conexao recorrente no portal",
+    "preprocessed_text": "perda de conexao recorrente no portal",
+    "category": "technical_issue",
+    "priority": "medium"
+  },
+  {
+    "text": "estou com erro ao acessar o cloud por favor",
+    "preprocessed_text": "estou com erro ao acessar o cloud por favor",
+    "category": "technical_issue",
+    "priority": "medium"
+  },
+  {
+    "text": "o fatura esta fora do ar desde ontem preciso urgente",
+    "preprocessed_text": "o fatura esta fora do ar desde ontem preciso urgente",
+    "category": "technical_issue",
+    "priority": "high"
+  },
+  {
+    "text": "por favor o tv apresenta alta latencia e falhas constantes por favor",
+    "preprocessed_text": "por favor o tv apresenta alta latencia e falhas constantes por favor",
+    "category": "technical_issue",
+    "priority": "high"
+  },
+  {
+    "text": "por favor estou com erro ao acessar o plano por favor",
+    "preprocessed_text": "por favor estou com erro ao acessar o plano por favor",
+    "category": "technical_issue",
+    "priority": "high"
+  },
+  {
+    "text": "quero cancelar meu plano do voip imediatamente",
+    "preprocessed_text": "quero cancelar meu plano do voip imediatamente",
+    "category": "cancellation",
+    "priority": "high"
+  },
+  {
+    "text": "por favor solicito cancelamento do internet por insatisfacao por favor",
+    "preprocessed_text": "por favor solicito cancelamento do internet por insatisfacao por favor",
+    "category": "cancellation",
+    "priority": "medium"
+  },
+  {
+    "text": "por favor quero cancelar meu plano do fatura imediatamente",
+    "preprocessed_text": "por favor quero cancelar meu plano do fatura imediatamente",
+    "category": "cancellation",
+    "priority": "medium"
+  },
+  {
+    "text": "nao consigo fazer login no mobile aparece erro",
+    "preprocessed_text": "nao consigo fazer login no mobile aparece erro",
+    "category": "technical_issue",
+    "priority": "medium"
+  },
+  {
+    "text": "como configuro permissoes administrativas no plano preciso urgente",
+    "preprocessed_text": "como configuro permissoes administrativas no plano preciso urgente",
+    "category": "account_management",
+    "priority": "low"
+  },
+  {
+    "text": "preciso confirmar o cancelamento do tv",
+    "preprocessed_text": "preciso confirmar o cancelamento do tv",
+    "category": "cancellation",
+    "priority": "high"
+  },
+  {
+    "text": "quero cancelar e saber sobre possiveis multas do voip por favor",
+    "preprocessed_text": "quero cancelar e saber sobre possiveis multas do voip por favor",
+    "category": "cancellation",
+    "priority": "medium"
+  },
+  {
+    "text": "por favor quero cancelar meu plano do portal imediatamente preciso urgente",
+    "preprocessed_text": "por favor quero cancelar meu plano do portal imediatamente preciso urgente",
+    "category": "cancellation",
+    "priority": "medium"
+  },
+  {
+    "text": "como transfiro servicos do internet para outra conta por favor",
+    "preprocessed_text": "como transfiro servicos do internet para outra conta por favor",
+    "category": "account_management",
+    "priority": "low"
+  },
+  {
+    "text": "o portal apresenta alta latencia e falhas constantes",
+    "preprocessed_text": "o portal apresenta alta latencia e falhas constantes",
+    "category": "technical_issue",
+    "priority": "medium"
+  },
+  {
+    "text": "estou com erro ao acessar o portal por favor",
+    "preprocessed_text": "estou com erro ao acessar o portal por favor",
+    "category": "technical_issue",
+    "priority": "medium"
+  },
+  {
+    "text": "por favor nao consigo fazer login no mobile aparece erro",
+    "preprocessed_text": "por favor nao consigo fazer login no mobile aparece erro",
+    "category": "technical_issue",
+    "priority": "medium"
+  },
+  {
+    "text": "quero cancelar e saber sobre possiveis multas do cloud por favor preciso urgente",
+    "preprocessed_text": "quero cancelar e saber sobre possiveis multas do cloud por favor preciso urgente",
+    "category": "cancellation",
+    "priority": "medium"
+  },
+  {
+    "text": "estou com erro ao acessar o internet",
+    "preprocessed_text": "estou com erro ao acessar o internet",
+    "category": "technical_issue",
+    "priority": "medium"
+  },
+  {
+    "text": "por favor nao consigo fazer login no tv aparece erro por favor",
+    "preprocessed_text": "por favor nao consigo fazer login no tv aparece erro por favor",
+    "category": "technical_issue",
+    "priority": "high"
+  },
+  {
+    "text": "por favor como altero o titular da conta do mobile por favor",
+    "preprocessed_text": "por favor como altero o titular da conta do mobile por favor",
+    "category": "account_management",
+    "priority": "low"
+  },
+  {
+    "text": "por favor verifiquei cobranca incorreta na fatura do tv",
+    "preprocessed_text": "por favor verifiquei cobranca incorreta na fatura do tv",
+    "category": "billing",
+    "priority": "medium"
+  },
+  {
+    "text": "gostaria de entender melhor minha ultima fatura",
+    "preprocessed_text": "gostaria de entender melhor minha ultima fatura",
+    "category": "billing",
+    "priority": "medium"
+  },
+  {
+    "text": "por favor ha um debito indevido relacionado ao cloud na minha fatura",
+    "preprocessed_text": "por favor ha um debito indevido relacionado ao cloud na minha fatura",
+    "category": "billing",
+    "priority": "medium"
+  },
+  {
+    "text": "ha um debito indevido relacionado ao cloud na minha fatura",
+    "preprocessed_text": "ha um debito indevido relacionado ao cloud na minha fatura",
+    "category": "billing",
+    "priority": "medium"
+  },
+  {
+    "text": "quero cancelar meu plano do tv imediatamente preciso urgente",
+    "preprocessed_text": "quero cancelar meu plano do tv imediatamente preciso urgente",
+    "category": "cancellation",
+    "priority": "medium"
+  },
+  {
+    "text": "por favor como faco para encerrar o servico de cloud",
+    "preprocessed_text": "por favor como faco para encerrar o servico de cloud",
+    "category": "cancellation",
+    "priority": "medium"
+  },
+  {
+    "text": "solicito estorno de uma cobranca do plano preciso urgente",
+    "preprocessed_text": "solicito estorno de uma cobranca do plano preciso urgente",
+    "category": "billing",
+    "priority": "high"
+  },
+  {
+    "text": "por favor perda de conexao recorrente no fatura preciso urgente",
+    "preprocessed_text": "por favor perda de conexao recorrente no fatura preciso urgente",
+    "category": "technical_issue",
+    "priority": "medium"
+  },
+  {
+    "text": "por favor como faco para encerrar o servico de plano",
+    "preprocessed_text": "por favor como faco para encerrar o servico de plano",
+    "category": "cancellation",
+    "priority": "medium"
+  },
+  {
+    "text": "como faco para encerrar o servico de internet preciso urgente",
+    "preprocessed_text": "como faco para encerrar o servico de internet preciso urgente",
+    "category": "cancellation",
+    "priority": "high"
+  },
+  {
+    "text": "quero cancelar meu plano do mobile imediatamente por favor",
+    "preprocessed_text": "quero cancelar meu plano do mobile imediatamente por favor",
+    "category": "cancellation",
+    "priority": "high"
+  },
+  {
+    "text": "quero cancelar e saber sobre possiveis multas do voip por favor preciso urgente",
+    "preprocessed_text": "quero cancelar e saber sobre possiveis multas do voip por favor preciso urgente",
+    "category": "cancellation",
+    "priority": "medium"
+  },
+  {
+    "text": "por favor estou com erro ao acessar o tv",
+    "preprocessed_text": "por favor estou com erro ao acessar o tv",
+    "category": "technical_issue",
+    "priority": "high"
+  },
+  {
+    "text": "quero cancelar e saber sobre possiveis multas do fatura por favor",
+    "preprocessed_text": "quero cancelar e saber sobre possiveis multas do fatura por favor",
+    "category": "cancellation",
+    "priority": "high"
+  },
+  {
+    "text": "o internet esta fora do ar desde ontem preciso urgente",
+    "preprocessed_text": "o internet esta fora do ar desde ontem preciso urgente",
+    "category": "technical_issue",
+    "priority": "high"
+  },
+  {
+    "text": "solicito estorno de uma cobranca do portal por favor preciso urgente",
+    "preprocessed_text": "solicito estorno de uma cobranca do portal por favor preciso urgente",
+    "category": "billing",
+    "priority": "high"
+  },
+  {
+    "text": "quero atualizar os dados cadastrais da minha conta por favor preciso urgente",
+    "preprocessed_text": "quero atualizar os dados cadastrais da minha conta por favor preciso urgente",
+    "category": "account_management",
+    "priority": "low"
+  },
+  {
+    "text": "por favor solicito cancelamento do portal por insatisfacao por favor preciso urgente",
+    "preprocessed_text": "por favor solicito cancelamento do portal por insatisfacao por favor preciso urgente",
+    "category": "cancellation",
+    "priority": "medium"
+  },
+  {
+    "text": "solicito estorno de uma cobranca do cloud preciso urgente",
+    "preprocessed_text": "solicito estorno de uma cobranca do cloud preciso urgente",
+    "category": "billing",
+    "priority": "medium"
+  },
+  {
+    "text": "ha um debito indevido relacionado ao portal na minha fatura",
+    "preprocessed_text": "ha um debito indevido relacionado ao portal na minha fatura",
+    "category": "billing",
+    "priority": "medium"
+  },
+  {
+    "text": "como transfiro servicos do voip para outra conta",
+    "preprocessed_text": "como transfiro servicos do voip para outra conta",
+    "category": "account_management",
+    "priority": "low"
+  },
+  {
+    "text": "por favor perda de conexao recorrente no voip por favor",
+    "preprocessed_text": "por favor perda de conexao recorrente no voip por favor",
+    "category": "technical_issue",
+    "priority": "high"
+  },
+  {
+    "text": "por favor quero cancelar meu plano do mobile imediatamente preciso urgente",
+    "preprocessed_text": "por favor quero cancelar meu plano do mobile imediatamente preciso urgente",
+    "category": "cancellation",
+    "priority": "high"
+  },
+  {
+    "text": "por favor fui cobrado a mais referente ao cloud preciso de ajuste por favor",
+    "preprocessed_text": "por favor fui cobrado a mais referente ao cloud preciso de ajuste por favor",
+    "category": "billing",
+    "priority": "high"
+  },
+  {
+    "text": "o fatura esta fora do ar desde ontem",
+    "preprocessed_text": "o fatura esta fora do ar desde ontem",
+    "category": "technical_issue",
+    "priority": "medium"
+  },
+  {
+    "text": "estou com erro ao acessar o tv",
+    "preprocessed_text": "estou com erro ao acessar o tv",
+    "category": "technical_issue",
+    "priority": "medium"
+  },
+  {
+    "text": "por favor quero entender lancamentos na minha fatura do fatura por favor",
+    "preprocessed_text": "por favor quero entender lancamentos na minha fatura do fatura por favor",
+    "category": "billing",
+    "priority": "medium"
+  },
+  {
+    "text": "solicito cancelamento do portal por insatisfacao preciso urgente",
+    "preprocessed_text": "solicito cancelamento do portal por insatisfacao preciso urgente",
+    "category": "cancellation",
+    "priority": "medium"
+  },
+  {
+    "text": "por favor preciso confirmar o cancelamento do cloud por favor",
+    "preprocessed_text": "por favor preciso confirmar o cancelamento do cloud por favor",
+    "category": "cancellation",
+    "priority": "medium"
+  },
+  {
+    "text": "por favor fui cobrado a mais referente ao voip preciso de ajuste por favor",
+    "preprocessed_text": "por favor fui cobrado a mais referente ao voip preciso de ajuste por favor",
+    "category": "billing",
+    "priority": "high"
+  },
+  {
+    "text": "por favor fui cobrado a mais referente ao fatura preciso de ajuste por favor",
+    "preprocessed_text": "por favor fui cobrado a mais referente ao fatura preciso de ajuste por favor",
+    "category": "billing",
+    "priority": "high"
+  },
+  {
+    "text": "o tv esta fora do ar desde ontem preciso urgente",
+    "preprocessed_text": "o tv esta fora do ar desde ontem preciso urgente",
+    "category": "technical_issue",
+    "priority": "medium"
+  },
+  {
+    "text": "estou com erro ao acessar o tv por favor",
+    "preprocessed_text": "estou com erro ao acessar o tv por favor",
+    "category": "technical_issue",
+    "priority": "medium"
+  },
+  {
+    "text": "por favor perda de conexao recorrente no fatura",
+    "preprocessed_text": "por favor perda de conexao recorrente no fatura",
+    "category": "technical_issue",
+    "priority": "medium"
+  },
+  {
+    "text": "por favor solicito cancelamento do fatura por insatisfacao por favor",
+    "preprocessed_text": "por favor solicito cancelamento do fatura por insatisfacao por favor",
+    "category": "cancellation",
+    "priority": "high"
+  },
+  {
+    "text": "verifiquei cobranca incorreta na fatura do tv por favor preciso urgente",
+    "preprocessed_text": "verifiquei cobranca incorreta na fatura do tv por favor preciso urgente",
+    "category": "billing",
+    "priority": "high"
+  },
+  {
+    "text": "preciso adicionar um novo usuario ao cloud preciso urgente",
+    "preprocessed_text": "preciso adicionar um novo usuario ao cloud preciso urgente",
+    "category": "account_management",
+    "priority": "low"
+  },
+  {
+    "text": "o voip esta fora do ar desde ontem por favor preciso urgente",
+    "preprocessed_text": "o voip esta fora do ar desde ontem por favor preciso urgente",
+    "category": "technical_issue",
+    "priority": "high"
+  },
+  {
+    "text": "como transfiro servicos do plano para outra conta por favor",
+    "preprocessed_text": "como transfiro servicos do plano para outra conta por favor",
+    "category": "account_management",
+    "priority": "low"
+  },
+  {
+    "text": "por favor solicito estorno de uma cobranca do voip preciso urgente",
+    "preprocessed_text": "por favor solicito estorno de uma cobranca do voip preciso urgente",
+    "category": "billing",
+    "priority": "high"
+  },
+  {
+    "text": "o voip esta fora do ar desde ontem",
+    "preprocessed_text": "o voip esta fora do ar desde ontem",
+    "category": "technical_issue",
+    "priority": "medium"
+  },
+  {
+    "text": "por favor quero cancelar meu plano do mobile imediatamente",
+    "preprocessed_text": "por favor quero cancelar meu plano do mobile imediatamente",
+    "category": "cancellation",
+    "priority": "high"
+  },
+  {
+    "text": "fui cobrado a mais referente ao portal preciso de ajuste",
+    "preprocessed_text": "fui cobrado a mais referente ao portal preciso de ajuste",
+    "category": "billing",
+    "priority": "medium"
+  },
+  {
+    "text": "por favor preciso confirmar o cancelamento do voip preciso urgente",
+    "preprocessed_text": "por favor preciso confirmar o cancelamento do voip preciso urgente",
+    "category": "cancellation",
+    "priority": "medium"
+  },
+  {
+    "text": "como transfiro servicos do plano para outra conta preciso urgente",
+    "preprocessed_text": "como transfiro servicos do plano para outra conta preciso urgente",
+    "category": "account_management",
+    "priority": "low"
+  },
+  {
+    "text": "por favor solicito estorno de uma cobranca do portal preciso urgente",
+    "preprocessed_text": "por favor solicito estorno de uma cobranca do portal preciso urgente",
+    "category": "billing",
+    "priority": "high"
+  },
+  {
+    "text": "fui cobrado a mais referente ao plano preciso de ajuste",
+    "preprocessed_text": "fui cobrado a mais referente ao plano preciso de ajuste",
+    "category": "billing",
+    "priority": "medium"
+  },
+  {
+    "text": "por favor estou com erro ao acessar o portal",
+    "preprocessed_text": "por favor estou com erro ao acessar o portal",
+    "category": "technical_issue",
+    "priority": "medium"
+  },
+  {
+    "text": "por favor o cloud apresenta alta latencia e falhas constantes",
+    "preprocessed_text": "por favor o cloud apresenta alta latencia e falhas constantes",
+    "category": "technical_issue",
+    "priority": "high"
+  },
+  {
+    "text": "como configuro permissoes administrativas no voip",
+    "preprocessed_text": "como configuro permissoes administrativas no voip",
+    "category": "account_management",
+    "priority": "low"
+  },
+  {
+    "text": "preciso confirmar o cancelamento do voip",
+    "preprocessed_text": "preciso confirmar o cancelamento do voip",
+    "category": "cancellation",
+    "priority": "high"
+  },
+  {
+    "text": "o fatura apresenta alta latencia e falhas constantes por favor",
+    "preprocessed_text": "o fatura apresenta alta latencia e falhas constantes por favor",
+    "category": "technical_issue",
+    "priority": "medium"
+  },
+  {
+    "text": "por favor o voip apresenta alta latencia e falhas constantes",
+    "preprocessed_text": "por favor o voip apresenta alta latencia e falhas constantes",
+    "category": "technical_issue",
+    "priority": "high"
+  },
+  {
+    "text": "quero cancelar meu plano do cloud imediatamente preciso urgente",
+    "preprocessed_text": "quero cancelar meu plano do cloud imediatamente preciso urgente",
+    "category": "cancellation",
+    "priority": "high"
+  },
+  {
+    "text": "fui cobrado a mais referente ao portal preciso de ajuste preciso urgente",
+    "preprocessed_text": "fui cobrado a mais referente ao portal preciso de ajuste preciso urgente",
+    "category": "billing",
+    "priority": "high"
+  },
+  {
+    "text": "verifiquei cobranca incorreta na fatura do cloud preciso urgente",
+    "preprocessed_text": "verifiquei cobranca incorreta na fatura do cloud preciso urgente",
+    "category": "billing",
+    "priority": "high"
+  },
+  {
+    "text": "fui cobrado a mais referente ao cloud preciso de ajuste por favor",
+    "preprocessed_text": "fui cobrado a mais referente ao cloud preciso de ajuste por favor",
+    "category": "billing",
+    "priority": "high"
+  },
+  {
+    "text": "o fatura apresenta alta latencia e falhas constantes",
+    "preprocessed_text": "o fatura apresenta alta latencia e falhas constantes",
+    "category": "technical_issue",
+    "priority": "medium"
+  },
+  {
+    "text": "quero entender lancamentos na minha fatura do internet",
+    "preprocessed_text": "quero entender lancamentos na minha fatura do internet",
+    "category": "billing",
+    "priority": "medium"
+  },
+  {
+    "text": "perda de conexao recorrente no tv por favor preciso urgente",
+    "preprocessed_text": "perda de conexao recorrente no tv por favor preciso urgente",
+    "category": "technical_issue",
+    "priority": "high"
+  },
+  {
+    "text": "como faco para encerrar o servico de portal por favor preciso urgente",
+    "preprocessed_text": "como faco para encerrar o servico de portal por favor preciso urgente",
+    "category": "cancellation",
+    "priority": "medium"
+  },
+  {
+    "text": "preciso confirmar o cancelamento do mobile por favor preciso urgente",
+    "preprocessed_text": "preciso confirmar o cancelamento do mobile por favor preciso urgente",
+    "category": "cancellation",
+    "priority": "high"
+  },
+  {
+    "text": "verifiquei cobranca incorreta na fatura do plano",
+    "preprocessed_text": "verifiquei cobranca incorreta na fatura do plano",
+    "category": "billing",
+    "priority": "medium"
+  },
+  {
+    "text": "preciso confirmar o cancelamento do cloud por favor",
+    "preprocessed_text": "preciso confirmar o cancelamento do cloud por favor",
+    "category": "cancellation",
+    "priority": "medium"
+  },
+  {
+    "text": "ha um debito indevido relacionado ao fatura na minha fatura preciso urgente",
+    "preprocessed_text": "ha um debito indevido relacionado ao fatura na minha fatura preciso urgente",
+    "category": "billing",
+    "priority": "medium"
+  },
+  {
+    "text": "por favor perda de conexao recorrente no portal",
+    "preprocessed_text": "por favor perda de conexao recorrente no portal",
+    "category": "technical_issue",
+    "priority": "medium"
+  },
+  {
+    "text": "solicito cancelamento do portal por insatisfacao por favor",
+    "preprocessed_text": "solicito cancelamento do portal por insatisfacao por favor",
+    "category": "cancellation",
+    "priority": "high"
+  },
+  {
+    "text": "quero cancelar e saber sobre possiveis multas do internet por favor",
+    "preprocessed_text": "quero cancelar e saber sobre possiveis multas do internet por favor",
+    "category": "cancellation",
+    "priority": "medium"
+  },
+  {
+    "text": "ha um debito indevido relacionado ao fatura na minha fatura",
+    "preprocessed_text": "ha um debito indevido relacionado ao fatura na minha fatura",
+    "category": "billing",
+    "priority": "medium"
+  },
+  {
+    "text": "nao consigo fazer login no tv aparece erro preciso urgente",
+    "preprocessed_text": "nao consigo fazer login no tv aparece erro preciso urgente",
+    "category": "technical_issue",
+    "priority": "medium"
+  },
+  {
+    "text": "quero cancelar meu plano do fatura imediatamente",
+    "preprocessed_text": "quero cancelar meu plano do fatura imediatamente",
+    "category": "cancellation",
+    "priority": "high"
+  },
+  {
+    "text": "por favor como altero o titular da conta do voip por favor",
+    "preprocessed_text": "por favor como altero o titular da conta do voip por favor",
+    "category": "account_management",
+    "priority": "low"
+  },
+  {
+    "text": "o sistema esta muito lento hoje",
+    "preprocessed_text": "o sistema esta muito lento hoje",
+    "category": "technical_issue",
+    "priority": "medium"
+  },
+  {
+    "text": "solicito cancelamento do portal por insatisfacao",
+    "preprocessed_text": "solicito cancelamento do portal por insatisfacao",
+    "category": "cancellation",
+    "priority": "high"
+  },
+  {
+    "text": "por favor quero cancelar meu plano do tv imediatamente",
+    "preprocessed_text": "por favor quero cancelar meu plano do tv imediatamente",
+    "category": "cancellation",
+    "priority": "high"
+  },
+  {
+    "text": "ha um debito indevido relacionado ao tv na minha fatura por favor preciso urgente",
+    "preprocessed_text": "ha um debito indevido relacionado ao tv na minha fatura por favor preciso urgente",
+    "category": "billing",
+    "priority": "high"
+  },
+  {
+    "text": "como transfiro servicos do fatura para outra conta",
+    "preprocessed_text": "como transfiro servicos do fatura para outra conta",
+    "category": "account_management",
+    "priority": "low"
+  }
+]

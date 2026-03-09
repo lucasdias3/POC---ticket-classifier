@@ -1,0 +1,2 @@
+model,accuracy,precision_macro,recall_macro,f1_macro
+pipeline_logistic_regression,0.9929078014184397,0.7942857142857143,0.8,0.7971014492753623

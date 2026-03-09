@@ -1,0 +1,72 @@
+[
+  {
+    "customer_segment": "SME",
+    "channel": "email",
+    "text": "Meu sistema está fora do ar desde ontem e não consigo emitir notas.",
+    "category": "technical_issue",
+    "priority": "high"
+  },
+  {
+    "customer_segment": "Startup",
+    "channel": "chat",
+    "text": "Gostaria de entender melhor minha última fatura.",
+    "category": "billing",
+    "priority": "medium"
+  },
+  {
+    "customer_segment": "Enterprise",
+    "channel": "phone",
+    "text": "Preciso cancelar meu plano imediatamente.",
+    "category": "cancellation",
+    "priority": "high"
+  },
+  {
+    "customer_segment": "SME",
+    "channel": "email",
+    "text": "Como altero os usuários da minha conta?",
+    "category": "account_management",
+    "priority": "low"
+  },
+  {
+    "customer_segment": "Startup",
+    "channel": "chat",
+    "text": "O sistema está muito lento hoje.",
+    "category": "technical_issue",
+    "priority": "medium"
+  },
+  {
+    "customer_segment": "SME",
+    "channel": "email",
+    "text": "Fui cobrado duas vezes este mês.",
+    "category": "billing",
+    "priority": "high"
+  },
+  {
+    "customer_segment": "Enterprise",
+    "channel": "phone",
+    "text": "Não estou satisfeito com o atendimento recebido.",
+    "category": "complaint",
+    "priority": "medium"
+  },
+  {
+    "customer_segment": "SME",
+    "channel": "chat",
+    "text": "Quero mudar meu plano para o premium.",
+    "category": "account_management",
+    "priority": "low"
+  },
+  {
+    "customer_segment": "Startup",
+    "channel": "email",
+    "text": "Meu login não está funcionando.",
+    "category": "technical_issue",
+    "priority": "high"
+  },
+  {
+    "customer_segment": "SME",
+    "channel": "chat",
+    "text": "Quais são as taxas de cancelamento?",
+    "category": "cancellation",
+    "priority": "medium"
+  }
+]

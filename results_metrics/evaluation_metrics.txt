@@ -1,0 +1,5 @@
+accuracy: 0.9943019943019943
+precision_macro: 0.7960403726708074
+recall_macro: 0.7961538461538462
+f1_macro: 0.796068495265774
+classification_report:                     precision    recall  f1-score   support\n\naccount_management       1.00      0.98      0.99        52\n           billing       1.00      1.00      1.00        96\n      cancellation       0.99      1.00      0.99        91\n         complaint       0.00      0.00      0.00         1\n   technical_issue       0.99      1.00      1.00       111\n\n          accuracy                           0.99       351\n         macro avg       0.80      0.80      0.80       351\n      weighted avg       0.99      0.99      0.99       351\n
