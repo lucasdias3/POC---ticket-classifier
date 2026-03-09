@@ -1,0 +1,24 @@
+environment:
+  name: ticket-classifier-env
+  python_version: 3.8
+
+resources:
+  cpu: 2
+  memory: 4GB
+  gpu: 1
+
+dependencies:
+  - pandas
+  - scikit-learn
+  - numpy
+  - flask
+  - fastapi
+  - uvicorn
+  - jupyter
+  - matplotlib
+  - seaborn
+
+entry_point: src/main.py
+
+description: >
+  This project implements an automatic ticket classification system for prioritization, automatic routing, and criticality identification using a dataset of customer support tickets. The system is designed to streamline the ticket handling process by categorizing and prioritizing incoming tickets based on their content and customer segment.
